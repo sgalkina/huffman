@@ -1,0 +1,2 @@
+# huffman
+Huffman code implementation
